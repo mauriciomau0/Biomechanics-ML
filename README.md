@@ -1,7 +1,7 @@
 # Biomechanics-ML
 Pipeline de ML com visão computacional para análise de marcha — do vídeo à decisão assistida por IA. Sports2D, scikit-learn e SHAP, enquadrados pelos 8 pilares do framework Reality-Centric AI.
 
-Este repositório abrange inteligência artificial aplicada à biomecânica. O vídeo é processado pelo Sports2D; as variáveis extraídas dos pontos anatômicos alimentam um modelo de machine learning; a ferramenta SHAP explica por que das previsões do modelo. A cada passo, o framework Reality-Centric AI obriga-nos a perguntar quais pressupostos vamos adotar — e quando devemos desconfiar dos dados e do modelo.
+Este repositório abrange inteligência artificial aplicada à biomecânica. O vídeo é processado pelo Sports2D; as variáveis extraídas dos pontos anatômicos alimentam um modelo de machine learning; a ferramenta SHAP explica por que das previsões do modelo. A cada passo, o framework Reality-Centric AI obriga-nos a perguntar quais pressupostos vamos adotar — e quando devemos suspeitar dos dados e do modelo.
 
 ## Objetivos de Aprendizagem
 Ao final do projeto, seremos capazes de:
