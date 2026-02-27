@@ -13,7 +13,7 @@ Ao final do projeto, seremos capazes de:
 5. **Preparar o modelo para o mundo imperfeito:** Testar a robustez do modelo diante de dados imperfeitos, injetando ruído e avaliando a degradação do desempenho para compreender até que ponto o modelo é robusto às condições reais de captação (Pilar 2 — RCAI: operar com dados reais, não com dados de laboratório).
 6. **Explicar para quem precisa de decidir:** Aplicar SHAP para tornar as predições interpretáveis e adaptar essa explicação a diferentes audiências (Pilar 7 — RCAI: a explicação certa para a pessoa certa).
 7. **Reconhecer que o modelo não decide sozinho:** Discutir o enquadramento regulatório e ético da utilização de IA baseada em vídeo na tomada de decisão clínica, ou seja, quem é responsável pela decisão final, quais requisitos de validação se aplicam e como garantir que o modelo comunica sua incerteza de forma que o clínico possa agir com segurança (Pilar 6 — RCAI: manter o humano no ciclo, especialmente em domínios de alto risco).
-8. Manter o modelo vivo após o deployment — usar o repositório do GitHub para registrar cada versão do pipeline (dados, notebooks, modelos serializados) e detectar quando os dados novos se afastam da distribuição original, sinalizando a necessidade de retreino ou de revisão clínica (Pilar 4 — RCAI: adaptação contínua ao mundo real).
+8. Manter o modelo vivo após o deployment — usar esse repositório para registrar cada versão do pipeline (dados, notebooks, modelos serializados) e detectar quando os dados novos se afastam da distribuição original, sinalizando a necessidade de retreino ou de revisão clínica (Pilar 4 — RCAI: adaptação contínua ao mundo real).
  
 ## Referências
 
