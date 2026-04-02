@@ -1,7 +1,7 @@
 # Biomechanics-ML
 Pipeline de ML com visão computacional para análise de marcha. Sports2D, scikit-learn e SHAP, enquadrados pelos pilares do framework [Reality-Centric AI](https://www.vanderschaar-lab.com/the-case-for-reality-centric-ai/) (RCAI).
 
-Abrangeremos IA aplicada à biomecânica. O vídeo é processado pelo [Sports2D][https://github.com/davidpagnon/Sports2D]; as variáveis extraídas dos pontos anatômicos alimentam um modelo de machine learning; a ferramenta SHAP nos indica a interpretabilidade do modelo treinado. Por fim, o framework Reality-Centric AI obriga-nos a perguntar quais pressupostos vamos adotar — e quando devemos suspeitar dos dados e do modelo.
+Abrangeremos IA aplicada à biomecânica. O vídeo é processado pelo [Sports2D](https://github.com/davidpagnon/Sports2D); as variáveis extraídas dos pontos anatômicos alimentam um modelo de machine learning; a ferramenta SHAP nos indica a interpretabilidade do modelo treinado. Por fim, o framework Reality-Centric AI obriga-nos a perguntar quais pressupostos vamos adotar — e quando devemos suspeitar dos dados e do modelo.
 
 ## Objetivos de Aprendizagem
 Ao final do projeto, seremos capazes de:
