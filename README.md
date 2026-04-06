@@ -6,7 +6,6 @@ Abrangeremos IA aplicada à biomecânica. O vídeo é processado pelo [Sports2D]
 ## Objetivos de Aprendizagem
 Ao final do projeto, seremos capazes de:
 
-```markdown
 ## Objetivos de Aprendizagem
 
 - [x] Executar uma pipeline de pose estimation 2D com Sports2D a partir de um vídeo, extraindo coordenadas articulares e ângulos dos membros superiores e inferiores.
@@ -20,7 +19,6 @@ Ao final do projeto, seremos capazes de:
 - [x] Garantir que o modelo comunica a sua incerteza de forma que o clínico possa agir com segurança, sem delegar a decisão ao sistema (Pilar 6 — RCAI: manter o humano no ciclo, especialmente em domínios de alto risco).
 - [x] Usar o repositório para registar cada versão do pipeline — dados, notebooks e modelos — mantendo rastreabilidade completa após o deployment (Pilar 4 — RCAI: adaptação contínua ao mundo real).
 - [ ] Detectar quando os dados novos se afastam da distribuição original, sinalizando a necessidade de retreino ou de revisão clínica (Pilar 4 — RCAI: adaptação contínua ao mundo real).
-``` 
  
 ## Referências
 
