@@ -3,13 +3,13 @@ Pipeline de ML com visão computacional para análise de marcha. Sports2D, sciki
 
 Abrangeremos IA aplicada à biomecânica. O vídeo é processado pelo [Sports2D](https://github.com/davidpagnon/Sports2D); as variáveis extraídas dos pontos anatômicos alimentam um modelo de machine learning; a ferramenta SHAP nos indica a interpretabilidade do modelo treinado. Por fim, o framework Reality-Centric AI obriga-nos a perguntar quais pressupostos vamos adotar — e quando devemos suspeitar dos dados e do modelo.
 
-https://github.com/user-attachments/assets/0f8fa603-937e-4584-b99e-e3dac900d0cd
-
 **Dados extraídos de um dos participantes do grupo de idosos saudáveis:**
 
-https://github.com/user-attachments/assets/802de70e-704f-4b06-86f7-ba9f6371b94d
+https://github.com/user-attachments/assets/0f8fa603-937e-4584-b99e-e3dac900d0cd
 
 **Dados extraídos de um dos participantes do grupo de amputados:**
+
+https://github.com/user-attachments/assets/802de70e-704f-4b06-86f7-ba9f6371b94d
 
 ## Objetivos de Aprendizagem
 Ao final do projeto, seremos capazes de:
