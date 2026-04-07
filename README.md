@@ -7,7 +7,7 @@ Abrangeremos IA aplicada à biomecânica. O vídeo é processado pelo [Sports2D]
 
 **Dados extraídos de um dos participantes do grupo de idosos saudáveis:**
 
-<video src="https://raw.githubusercontent.com/mauriciomau0/Biomechanics-ML/refs/heads/main/Content/participante_amputado.mp4" width="720" height="480" controls></video>
+<video src="https://raw.githubusercontent.com/mauriciomau0/Biomechanics-ML/refs/heads/main/Content/participante_idoso.mp4" width="720" height="480" controls></video>
 
 **Dados extraídos de um dos participantes do grupo de amputados:**
 
